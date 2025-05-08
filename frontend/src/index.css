@@ -1,0 +1,59 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* Align full height and column layout */
+.str-chat__channel {
+  display: flex;
+  flex: 1;
+  align-items: stretch;
+  justify-content: center;
+  height: 100%;
+}
+
+.str-chat__container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto !important;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+}
+
+/* Message list takes full remaining space */
+.str-chat__list {
+  flex: 1;
+  overflow-y: auto;
+  background-color: #ffffff;
+  padding: 12px;
+}
+
+/* Message input stays at bottom */
+.str-chat__message-input {
+  width: 100%;
+  border-top: 2px solid #e5e7eb;
+  background-color: #f9fafb;
+  padding: 8px;
+}
+
+/* Remove default stream notification UI */
+.str-chat__list-notifications {
+  display: none;
+}
+
+/* Responsive: remove radius & shadow on small screens */
+@media (max-width: 768px) {
+  .str-chat__container {
+    width: 100% !important;
+    margin: 0 !important;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .str-chat__message-input {
+    border-top-width: 1px;
+    padding: 6px 8px;
+  }
+}
