@@ -53,11 +53,6 @@ export async function getFriends(req, res) {
  */
 export async function sendFriendRequest(req, res) {
   try {
-    console.log("→ sendFriendRequest called with:", {
-      user: req.user,
-      recipientId: req.params.id,
-    });
-
     const senderId = req.user._id.toString();
     const recipientId = req.params.id;
 
