@@ -156,7 +156,7 @@ Visit [http://localhost:5173](http://localhost:5173) to see the frontend.
 
 ## 🎥 Demo Video
 
-📽️ Watch the demo video: [Click to Play](./demo.mp4)
+📽️ Watch the demo video: [Click to Play](./video_demo_chatty.mp4)
  
 ---
 
