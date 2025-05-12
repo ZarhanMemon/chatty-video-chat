@@ -129,32 +129,19 @@ Visit [http://localhost:5173](http://localhost:5173) to see the frontend.
 
 ### 💬 Desktop Chat View
 
-1.
-   <img width="958" alt="Image" src="https://github.com/user-attachments/assets/144855c9-636f-4b4f-9f8c-05e9e7c21d9c" />
-
-2.
-   <img width="946" alt="Image" src="https://github.com/user-attachments/assets/12b7f15b-affd-4201-9515-413911bf8c3e" />
-
-3.
-   <img width="701" alt="Image" src="https://github.com/user-attachments/assets/1bb9ce57-cc56-4207-8724-0a2d16053085" />
-
+<p align="center"> <img src="https://github.com/user-attachments/assets/144855c9-636f-4b4f-9f8c-05e9e7c21d9c" width="30%" /> <img src="https://github.com/user-attachments/assets/12b7f15b-affd-4201-9515-413911bf8c3e" width="30%" /> <img src="https://github.com/user-attachments/assets/1bb9ce57-cc56-4207-8724-0a2d16053085" width="30%" /> </p>
 
 
 ### 📱 Mobile Chat View
 
-1.
-   <img width="149" alt="Image" src="https://github.com/user-attachments/assets/f34becec-816f-4af2-9d94-cf78cb3243ce" />
+<p align="center"> <img src="https://github.com/user-attachments/assets/f34becec-816f-4af2-9d94-cf78cb3243ce" width="20%" /> <img src="https://github.com/user-attachments/assets/2eb4d9a9-017c-40ee-bbd5-1fb0646bf3ce" width="20%" /> <img src="https://github.com/user-attachments/assets/72ca9409-22e9-49c2-94a2-030e88f056ab" width="20%" /> </p>
 
-2.
-   <img width="146" alt="Image" src="https://github.com/user-attachments/assets/2eb4d9a9-017c-40ee-bbd5-1fb0646bf3ce" />
 
-3.
-   <img width="146" alt="Image" src="https://github.com/user-attachments/assets/72ca9409-22e9-49c2-94a2-030e88f056ab" />
-
-  
 ---
 
 ## 🎥 Demo Video
+
+![Chatty Demo](./video_demo_chatty.gif)
 
 📽️ Watch the demo video: [Click to Play](./video_demo_chatty.mp4)
  
