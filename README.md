@@ -7,21 +7,26 @@
 
 ## ✅ Features (Current Version)
 
-- 🔐 **User Authentication** – Login & Logout  
+- 🔐 **User Authentication** – Signup , Login & Logout
+  
 - 🧑‍🤝‍🧑 **Friend System**
   - Send Friend Requests  
   - Accept/Reject Requests  
   - Follow Other Users  
-  - Get Notifications for Incoming Requests  
+  - Get Notifications for Incoming Requests
+    
 - 🟢 **User Presence**
   - See Online/Offline Status  
-  - Typing Indicators  
+  - Typing Indicators
+    
 - 💬 **1-on-1 Real-Time Chat**
   - Built with GetStream.io (no manual socket setup)  
-  - Read Receipts & Timestamps  
+  - Read Receipts & Timestamps
+    
 - 👤 **User Profile Management**
   - Edit Profile Picture  
-  - Edit Display Name  
+  - Edit Display Name
+    
 - 📱 **Fully Responsive UI** – Mobile and Desktop friendly  
 
 ---
@@ -140,8 +145,6 @@ Visit [http://localhost:5173](http://localhost:5173) to see the frontend.
 ---
 
 ## 🎥 Demo Video
-
-![Chatty Demo](./video_demo_chatty.gif)
 
 📽️ Watch the demo video: [Click to Play](./video_demo_chatty.mp4)
  
