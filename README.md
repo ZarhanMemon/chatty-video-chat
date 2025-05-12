@@ -129,22 +129,36 @@ Visit [http://localhost:5173](http://localhost:5173) to see the frontend.
 
 ### 💬 Desktop Chat View
 
-![Desktop Chat](./screenshots/chat-desktop.png)
+1.
+   <img width="958" alt="Image" src="https://github.com/user-attachments/assets/144855c9-636f-4b4f-9f8c-05e9e7c21d9c" />
+
+2.
+   <img width="946" alt="Image" src="https://github.com/user-attachments/assets/12b7f15b-affd-4201-9515-413911bf8c3e" />
+
+3.
+   <img width="701" alt="Image" src="https://github.com/user-attachments/assets/1bb9ce57-cc56-4207-8724-0a2d16053085" />
+
+
 
 ### 📱 Mobile Chat View
 
-![Mobile Chat](./screenshots/chat-mobile.png)
+1.
+   <img width="149" alt="Image" src="https://github.com/user-attachments/assets/f34becec-816f-4af2-9d94-cf78cb3243ce" />
 
-> Add your images in the `screenshots/` folder in root.
+2.
+   <img width="146" alt="Image" src="https://github.com/user-attachments/assets/2eb4d9a9-017c-40ee-bbd5-1fb0646bf3ce" />
 
+3.
+   <img width="146" alt="Image" src="https://github.com/user-attachments/assets/72ca9409-22e9-49c2-94a2-030e88f056ab" />
+
+  
 ---
 
 ## 🎥 Demo Video
 
 [![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-> Upload your demo to YouTube and replace `YOUR_VIDEO_ID` with the actual video ID.
-
+ 
 ---
 
 ## 🙏 Credits
