@@ -72,8 +72,8 @@ chatty/
 | State Mgmt   | Zustand                                 |
 | Auth         | JWT / Custom Middleware                 |
 | API Mgmt     | Axios                                   |
-| Other npm    | toaster, bcryptjs, cors, cloudinary, cookie-parser |
-
+| Other npm    | toaster, bcryptjs, cors, cloudinary, cookie-parser  |
+| Api handling | tanstack Query |
 ---
 
 ## ⚙️ How to Run the Project Locally
