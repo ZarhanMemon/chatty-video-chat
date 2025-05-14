@@ -1,5 +1,5 @@
 
-# 🗨️ Chatty - Real-Time Chat App (Using GetStream.io)
+# 🗨️ Chatty - Real-Time Video/Chat App 
 
 **Chatty** is a full-stack real-time chat application built using **GetStream.io** on the frontend and **Node.js/Express** on the backend. It allows users to communicate instantly in a clean, responsive UI — similar to WhatsApp or Messenger.
 
